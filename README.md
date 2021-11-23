@@ -21,3 +21,7 @@ https://user-images.githubusercontent.com/50042375/142993868-806558e1-64e7-4e74-
 
 
 Used flutter 2.5.0
+
+used punlic api
+
+https://www.breakingbadapi.com/api/characters?limit=12
